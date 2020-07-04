@@ -1,0 +1,63 @@
+h1{
+    color : purple;
+
+}
+.main-container{
+    background-image: url("study.jpg");
+    height: 566px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container{
+
+    text-align: center;
+    padding-top: 25%;
+}
+
+body{
+    
+    
+    background-size:cover;
+    background-position:center;
+    font-family:Lato;
+
+}
+html{
+    height:100%;
+}
+hr{
+    width:400px;
+    border-top:1px solid #f8f8f8;
+    border-bottom:1px solid rgba(0);
+}
+.conten1{
+    text-align: center;
+    text-shadow:0px 4px 3px rgba(0,0,0.4),
+                0px 8px 13px orange;
+}
+h1, h3{
+    color:white;
+}
+.navbar1 {
+    position: relative;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    /* align-items: center; */
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    padding: .5rem 1rem;
+
+
+}
+form.signup-form {
+    display:  inline-grid;
+    padding-left: 40%;
+}
