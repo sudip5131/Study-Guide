@@ -1,3 +1,5 @@
 "# Study_Guide" 
 
+Project Team:
+Ganesh Karki, Sudip Maharjan, Udip Parajuli and Sandeep Gautam
 Study Guide helps you to pre-plan and organize your reading material and time. The utility of Study Guide includes assignment remainder, due date alert, attendance record and other significant student necessities. Being undergraduate students, we found it difficult to adjust appropriately with intermittent subjects. It would be easier and reliable, if an application helped us remind and keep up with the syllabus. The sole purpose of this software is to assist students with time management and comprehensive study. We intent to use client side JavaScript language, along with HTML and CSS to create an attractive user-friendly visual schema. JavaScript will be used to modernize our website with interactivity. MySQL is used as the Database Management System for this project. We expect our software to meet current students’ needs. The software we attempt to make shall be flexible so that necessary minor modifications can be considered.
